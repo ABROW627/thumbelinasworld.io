@@ -1,1 +1,1 @@
-# thumbelinasworld.io
+# thumbelinasworld.github.io
